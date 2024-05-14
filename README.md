@@ -1,2 +1,2 @@
 # tbd-example
-Trunk based Development branching demo 
+This is an example of a Trunk based Development branching strategy 
